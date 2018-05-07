@@ -4,4 +4,4 @@ A simple, powerful, clean, open-source password generator which runs locally ins
 
 <i>Open-source code + Simplicity = Trustworthness.</i>
 
-<b>Instructions:</b>  Open the *.htm file and have a look thru it.  Installation and usage notes are near the top.
+<b>Instructions:</b>  Open MightyTiny_Password_Generator.htm and take a look at it.  Installation and usage notes are near the top.
